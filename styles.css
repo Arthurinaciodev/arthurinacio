@@ -4,13 +4,13 @@ body  {
     font-style: normal;
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-    scrollbar-width: thin;          
-    scrollbar-color: blue orange;  
     height: 700px;
     max-height: 1000px;
 }
 
 .page-perfil {
+    background-color:rgba(61, 11, 188, 0.735);
+    border-radius: 20px;
     margin-top: 25px;
     display: flex;
     justify-content: center;
