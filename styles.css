@@ -1,0 +1,84 @@
+body  {
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(255,255,255);
+
+}
+
+.page-perfil {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-perfil img {
+    border-radius: 50%;
+    width: 50%;
+}
+
+.page-conquists-programing {
+    margin: 0;
+    font-size: 12pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-languanges-programing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-languanges-programing img{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color:rgb(0, 32, 240);
+}
+
+.page-languanges-programing img:hover {
+    background-color:rgba(29, 246, 0, 0.68);
+}
+
+.page-tools {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-tools img {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color:rgb(0, 32, 240);
+}
+
+.page-tools img:hover {
+    background-color:rgba(29, 246, 0, 0.68);
+}
+
+.page-social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-social-media img {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color:rgb(0, 32, 240);
+}
+
+.page-social-media img:hover {
+    background-color:rgba(29, 246, 0, 0.68);
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
