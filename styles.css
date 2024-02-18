@@ -9,8 +9,6 @@ body  {
 }
 
 .page-perfil {
-    background-color:rgba(61, 11, 188, 0.735);
-    border-radius: 20px;
     margin-top: 25px;
     display: flex;
     justify-content: center;
