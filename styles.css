@@ -18,6 +18,7 @@ body  {
 .page-perfil img {
     max-width: 50%;
     border-radius: 50%;
+    border: solid rgba(61, 11, 188, 0.735) 10px;
 }
 
 .page-conquists-programing {
@@ -42,7 +43,7 @@ body  {
 }
 
 .page-languanges-programing img:hover {
-    background-color:rgb(235, 192, 0);
+    background-color: rgba(11, 67, 220, 0.735);
 }
 
 .page-tools {
@@ -59,7 +60,7 @@ body  {
 }
 
 .page-tools img:hover {
-    background-color:rgb(235, 192, 0);
+    background-color: rgba(11, 67, 220, 0.735);
 }
 
 .page-social-media {
@@ -76,9 +77,14 @@ body  {
 }
 
 .page-social-media img:hover {
-    background-color:rgb(235, 192, 0);
+    background-color: rgba(11, 67, 220, 0.735);
 }
 
 .title p {
-text-align: center;
+    text-align: center;
+}
+
+.footer-final p {
+    margin: 13px;
+    text-align: center;
 }
